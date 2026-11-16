@@ -1,6 +1,6 @@
 # NoShowGuard: Outpatient Clinic No-Show Risk Prediction & Qualitative Root-Cause Analysis
 
-**Repository Link:** `https://github.com/mohan/noshowguard` *(Replace with your public repository URL upon upload)*
+**Repository Link:** `https://github.com/mohansrivastvaworking/masai-final-project.git` 
 
 ---
 
